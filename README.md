@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarianaM02
-- 👀 I’m interested in web and Software Development
+- 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning Java, Javascript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
