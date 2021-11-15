@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarianaM02
 - 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning Java and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
 - 📫 How to reach me:
 
 <!---
